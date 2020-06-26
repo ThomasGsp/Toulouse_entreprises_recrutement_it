@@ -7,8 +7,8 @@ Cette liste ne m'étant plus vraiment utile et pouvant potentiellement l'être p
 Si vous en connaissez d'autres, n'hésitez pas à le signaler, ou mieux, faire une PR pour compléter.
 
 - Entreprises toute tailles avec des postes IT en interne.
-- Fournisseurs de services, ne proposant pas de prestation de consulting: hébergeur, infogéreur...
+- Fournisseurs de services, ne proposant pas de prestation de consulting ou de façon secondaire: hébergeur, infogéreur...
 
 Une cinquantaine est disponible pour le moment.
 
-Enjoy ! 
+--->  [Liste ici](https://github.com/ThomasGsp/Toulouse_entreprises_recrutement_it/blob/master/liste_entreprise_toulouse_IT.md)
